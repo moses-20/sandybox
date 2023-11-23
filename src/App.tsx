@@ -11,6 +11,8 @@ function App() {
     if (account.length > 9) {
       const suggestions = nuban(account);
       setSuggestions(suggestions);
+    } else {
+      setSuggestions([]);
     }
   }, [account]);
 
@@ -27,6 +29,24 @@ function App() {
         margin: "0 auto",
       }}
     >
+      <h1
+        style={{
+          textAlign: "center",
+          fontSize: "2rem",
+        }}
+      >
+        NUBAN
+      </h1>
+
+      <p
+        style={{
+          textAlign: "center",
+          fontSize: "1.2rem",
+        }}
+      >
+        Enter your account number to get bank suggestions
+      </p>
+
       <input
         type="text"
         value={account}
@@ -42,9 +62,30 @@ function App() {
       />
 
       <div>
-        {suggestions.map((suggestion) => (
+        {suggestions.length > 0 ? (
+          suggestions.map((suggestion) => (
+            <div
+              key={suggestion.code}
+              style={{
+                width: "100%",
+                padding: "10px",
+                fontSize: "1.2rem",
+                margin: "10px 0",
+                border: "1px solid #ccc",
+                borderRadius: "5px",
+              }}
+            >
+              <p
+                style={{
+                  fontSize: "1rem",
+                }}
+              >
+                {suggestion.name}
+              </p>
+            </div>
+          ))
+        ) : (
           <div
-            key={suggestion.code}
             style={{
               width: "100%",
               padding: "10px",
@@ -59,10 +100,10 @@ function App() {
                 fontSize: "1rem",
               }}
             >
-              {suggestion.name}
+              No Suggestions
             </p>
           </div>
-        ))}
+        )}
       </div>
     </div>
   );
