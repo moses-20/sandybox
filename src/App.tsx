@@ -4,7 +4,7 @@ import { useNuban } from "./hooks";
 import { Bank } from "./data";
 
 function App() {
-  const [account, setAccount] = useState("2391306352");
+  const [account, setAccount] = useState("");
   const [suggestions, setSuggestions] = useState<Bank[]>([]);
 
   const nuban = useNuban();
