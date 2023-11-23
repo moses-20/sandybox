@@ -4,8 +4,10 @@ import { useNuban } from "./hooks";
 import { Bank } from "./data";
 
 function App() {
-  const [account, setAccount] = useState("");
+  const [account, setAccount] = useState("2391306352");
   const [suggestions, setSuggestions] = useState<Bank[]>([]);
+
+  const nuban = useNuban();
 
   useEffect(() => {
     if (account.length > 9) {
@@ -15,8 +17,6 @@ function App() {
       setSuggestions([]);
     }
   }, [account]);
-
-  const nuban = useNuban();
 
   const handleInput = (e: React.ChangeEvent<HTMLInputElement>) => {
     setAccount(e.target.value);
@@ -104,6 +104,27 @@ function App() {
             </p>
           </div>
         )}
+
+        <p
+          style={{
+            fontSize: "0.8rem",
+            textAlign: "center",
+            margin: "20px 0",
+          }}
+        >
+          Suggestions are based on
+          <a
+            href="https://www.cbn.gov.ng/supervision/Inst-DM.asp"
+            target="_blank"
+            style={{
+              color: "blue",
+              margin: "0 3px",
+            }}
+          >
+            the 24 licensed commercial banks
+          </a>
+          in Nigeria.
+        </p>
       </div>
     </div>
   );

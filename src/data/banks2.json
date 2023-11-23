@@ -1,0 +1,2617 @@
+[
+  {
+    "id": "000001",
+    "institution_code": "000001",
+    "institution_name": "Sterling Bank"
+  },
+  {
+    "id": "000002",
+    "institution_code": "000002",
+    "institution_name": "Keystone Bank"
+  },
+  {
+    "id": "000003",
+    "institution_code": "000003",
+    "institution_name": "FCMB"
+  },
+  {
+    "id": "000004",
+    "institution_code": "000004",
+    "institution_name": "United Bank For Africa PLC",
+    "institution_acronym": "UBA"
+  },
+  {
+    "id": "000005",
+    "institution_code": "000005",
+    "institution_name": "Access Bank PLC (Diamond)"
+  },
+  {
+    "id": "000006",
+    "institution_code": "000006",
+    "institution_name": "Jaiz Bank"
+  },
+  {
+    "id": "000007",
+    "institution_code": "000007",
+    "institution_name": "Fidelity Bank"
+  },
+  {
+    "id": "000008",
+    "institution_code": "000008",
+    "institution_name": "Polaris Bank"
+  },
+  {
+    "id": "000009",
+    "institution_code": "000009",
+    "institution_name": "Citi Bank"
+  },
+  {
+    "id": "000010",
+    "institution_code": "000010",
+    "institution_name": "Ecobank Bank"
+  },
+  {
+    "id": "000011",
+    "institution_code": "000011",
+    "institution_name": "Unity Bank"
+  },
+  {
+    "id": "000012",
+    "institution_code": "000012",
+    "institution_name": "Stanbicibtc Bank"
+  },
+  {
+    "id": "000013",
+    "institution_code": "000013",
+    "institution_name": "Guaranty Trust Bank (GTBank) PLC",
+    "institution_acronym": "GTB"
+  },
+  {
+    "id": "000014",
+    "institution_code": "000014",
+    "institution_name": "Access Bank"
+  },
+  {
+    "id": "000015",
+    "institution_code": "000015",
+    "institution_name": "Zenith Bank PLC"
+  },
+  {
+    "id": "000016",
+    "institution_code": "000016",
+    "institution_name": "First Bank of Nigeria (FBN)",
+    "institution_acronym": "FBN"
+  },
+  {
+    "id": "000017",
+    "institution_code": "000017",
+    "institution_name": "Wema Bank"
+  },
+  {
+    "id": "000018",
+    "institution_code": "000018",
+    "institution_name": "Union Bank"
+  },
+  {
+    "id": "000020",
+    "institution_code": "000020",
+    "institution_name": "Heritage"
+  },
+  {
+    "id": "000021",
+    "institution_code": "000021",
+    "institution_name": "Standard Chartered"
+  },
+  {
+    "id": "000022",
+    "institution_code": "000022",
+    "institution_name": "Suntrust Bank"
+  },
+  {
+    "id": "000023",
+    "institution_code": "000023",
+    "institution_name": "Providus Bank"
+  },
+  {
+    "id": "000024",
+    "institution_code": "000024",
+    "institution_name": "Rand Merchant Bank"
+  },
+  {
+    "id": "000025",
+    "institution_code": "000025",
+    "institution_name": "Titan Trust Bank"
+  },
+  {
+    "id": "000026",
+    "institution_code": "000026",
+    "institution_name": "Taj Bank"
+  },
+  {
+    "id": "000027",
+    "institution_code": "000027",
+    "institution_name": "Globus Bank"
+  },
+  {
+    "id": "000028",
+    "institution_code": "000028",
+    "institution_name": "Central Bank of Nigeria (CBN)",
+    "institution_acronym": "CBN"
+  },
+  {
+    "id": "000029",
+    "institution_code": "000029",
+    "institution_name": "Lotus Bank"
+  },
+  {
+    "id": "000030",
+    "institution_code": "000030",
+    "institution_name": "Parallex Bank"
+  },
+  {
+    "id": "000031",
+    "institution_code": "000031",
+    "institution_name": "Premium Trust Bank"
+  },
+  {
+    "id": "000033",
+    "institution_code": "000033",
+    "institution_name": "E-Naira"
+  },
+  {
+    "id": "000034",
+    "institution_code": "000034",
+    "institution_name": "Signature Bank"
+  },
+  {
+    "id": "000036",
+    "institution_code": "000036",
+    "institution_name": "Optimus Bank"
+  },
+  {
+    "id": "000037",
+    "institution_code": "000037",
+    "institution_name": "Alternative Bank Limited"
+  },
+  {
+    "id": "030001",
+    "institution_code": "030001",
+    "institution_name": "Nexim Bank"
+  },
+  {
+    "id": "050001",
+    "institution_code": "050001",
+    "institution_name": "County Finance Ltd"
+  },
+  {
+    "id": "050002",
+    "institution_code": "050002",
+    "institution_name": "Fewchore Finance Company Limited"
+  },
+  {
+    "id": "050003",
+    "institution_code": "050003",
+    "institution_name": "Sagegrey Finance Limited"
+  },
+  {
+    "id": "050004",
+    "institution_code": "050004",
+    "institution_name": "Newedge Finance Ltd"
+  },
+  {
+    "id": "050005",
+    "institution_code": "050005",
+    "institution_name": "Aaa Finance"
+  },
+  {
+    "id": "050006",
+    "institution_code": "050006",
+    "institution_name": "Branch International Financial Services"
+  },
+  {
+    "id": "050007",
+    "institution_code": "050007",
+    "institution_name": "Tekla Finance Ltd"
+  },
+  {
+    "id": "050009",
+    "institution_code": "050009",
+    "institution_name": "Fast Credit"
+  },
+  {
+    "id": "050010",
+    "institution_code": "050010",
+    "institution_name": "Fundquest Financial Services Ltd"
+  },
+  {
+    "id": "050012",
+    "institution_code": "050012",
+    "institution_name": "Enco Finance"
+  },
+  {
+    "id": "050013",
+    "institution_code": "050013",
+    "institution_name": "Dignity Finance"
+  },
+  {
+    "id": "050014",
+    "institution_code": "050014",
+    "institution_name": "Trinity Financial Services Limited"
+  },
+  {
+    "id": "050015",
+    "institution_code": "050015",
+    "institution_name": "Lukefield Finance Company Limited"
+  },
+  {
+    "id": "050016",
+    "institution_code": "050016",
+    "institution_name": "E-Finance"
+  },
+  {
+    "id": "050017",
+    "institution_code": "050017",
+    "institution_name": "Cardinalstone Finance"
+  },
+  {
+    "id": "060001",
+    "institution_code": "060001",
+    "institution_name": "Coronation"
+  },
+  {
+    "id": "060002",
+    "institution_code": "060002",
+    "institution_name": "Fbnquest Merchant Bank"
+  },
+  {
+    "id": "060003",
+    "institution_code": "060003",
+    "institution_name": "Nova Mb"
+  },
+  {
+    "id": "060004",
+    "institution_code": "060004",
+    "institution_name": "Greenwich Merchant Bank"
+  },
+  {
+    "id": "070001",
+    "institution_code": "070001",
+    "institution_name": "NPF Microfinance Bank"
+  },
+  {
+    "id": "070002",
+    "institution_code": "070002",
+    "institution_name": "Fortis Microfinance Bank"
+  },
+  {
+    "id": "070006",
+    "institution_code": "070006",
+    "institution_name": "Covenant MFB"
+  },
+  {
+    "id": "070007",
+    "institution_code": "070007",
+    "institution_name": "Livingtrust Mortgage Bank PLC"
+  },
+  {
+    "id": "070008",
+    "institution_code": "070008",
+    "institution_name": "Page Financials"
+  },
+  {
+    "id": "070009",
+    "institution_code": "070009",
+    "institution_name": "Gateway Mortgage Bank"
+  },
+  {
+    "id": "070010",
+    "institution_code": "070010",
+    "institution_name": "Abbey Mortgage Bank"
+  },
+  {
+    "id": "070011",
+    "institution_code": "070011",
+    "institution_name": "Refuge Mortgage Bank"
+  },
+  {
+    "id": "070012",
+    "institution_code": "070012",
+    "institution_name": "Lbic Mortgage Bank"
+  },
+  {
+    "id": "070013",
+    "institution_code": "070013",
+    "institution_name": "Platinum Mortgage Bank"
+  },
+  {
+    "id": "070014",
+    "institution_code": "070014",
+    "institution_name": "First Generation Mortgage Bank"
+  },
+  {
+    "id": "070015",
+    "institution_code": "070015",
+    "institution_name": "Brent Mortgage Bank"
+  },
+  {
+    "id": "070016",
+    "institution_code": "070016",
+    "institution_name": "Infinity Trust  Mortgage Bank"
+  },
+  {
+    "id": "070017",
+    "institution_code": "070017",
+    "institution_name": "Haggai Mortgage Bank"
+  },
+  {
+    "id": "070019",
+    "institution_code": "070019",
+    "institution_name": "Mayfresh Mortgage Bank"
+  },
+  {
+    "id": "070021",
+    "institution_code": "070021",
+    "institution_name": "Coop Mortgage Bank"
+  },
+  {
+    "id": "070022",
+    "institution_code": "070022",
+    "institution_name": "Stb Mortgage Bank"
+  },
+  {
+    "id": "070023",
+    "institution_code": "070023",
+    "institution_name": "Delta Trust Mortgage Bank"
+  },
+  {
+    "id": "070024",
+    "institution_code": "070024",
+    "institution_name": "Homebase Mortgage"
+  },
+  {
+    "id": "070025",
+    "institution_code": "070025",
+    "institution_name": "Akwa Savings & Loans Limited"
+  },
+  {
+    "id": "070026",
+    "institution_code": "070026",
+    "institution_name": "Fha Mortgage Bank Ltd"
+  },
+  {
+    "id": "080002",
+    "institution_code": "080002",
+    "institution_name": "Tajwallet"
+  },
+  {
+    "id": "090001",
+    "institution_code": "090001",
+    "institution_name": "Asosavings"
+  },
+  {
+    "id": "090003",
+    "institution_code": "090003",
+    "institution_name": "Jubileelife"
+  },
+  {
+    "id": "090004",
+    "institution_code": "090004",
+    "institution_name": "Parralex"
+  },
+  {
+    "id": "090005",
+    "institution_code": "090005",
+    "institution_name": "Trustbond"
+  },
+  {
+    "id": "090097",
+    "institution_code": "090097",
+    "institution_name": "Ekondo MFB"
+  },
+  {
+    "id": "090107",
+    "institution_code": "090107",
+    "institution_name": "Firsttrust Morgages Limited"
+  },
+  {
+    "id": "090108",
+    "institution_code": "090108",
+    "institution_name": "New Prudential Bank"
+  },
+  {
+    "id": "090110",
+    "institution_code": "090110",
+    "institution_name": "Vfd MFB"
+  },
+  {
+    "id": "090111",
+    "institution_code": "090111",
+    "institution_name": "Finatrust Microfinance Bank"
+  },
+  {
+    "id": "090113",
+    "institution_code": "090113",
+    "institution_name": "Microvis Microfinance Bank"
+  },
+  {
+    "id": "090114",
+    "institution_code": "090114",
+    "institution_name": "Empiretrust Microfinance Bank"
+  },
+  {
+    "id": "090115",
+    "institution_code": "090115",
+    "institution_name": "Tcf"
+  },
+  {
+    "id": "090116",
+    "institution_code": "090116",
+    "institution_name": "Amml MFB"
+  },
+  {
+    "id": "090117",
+    "institution_code": "090117",
+    "institution_name": "Boctrust Microfinance Bank"
+  },
+  {
+    "id": "090118",
+    "institution_code": "090118",
+    "institution_name": "Ibile Microfinance Bank"
+  },
+  {
+    "id": "090119",
+    "institution_code": "090119",
+    "institution_name": "Ohafia MFB"
+  },
+  {
+    "id": "090120",
+    "institution_code": "090120",
+    "institution_name": "Wetland MFB"
+  },
+  {
+    "id": "090121",
+    "institution_code": "090121",
+    "institution_name": "Hasal MFB"
+  },
+  {
+    "id": "090122",
+    "institution_code": "090122",
+    "institution_name": "Gowans MFB"
+  },
+  {
+    "id": "090123",
+    "institution_code": "090123",
+    "institution_name": "Trustbanc J6 Microfinance Bank Limited"
+  },
+  {
+    "id": "090124",
+    "institution_code": "090124",
+    "institution_name": "Xslnce Microfinance Bank"
+  },
+  {
+    "id": "090125",
+    "institution_code": "090125",
+    "institution_name": "Regent MFB"
+  },
+  {
+    "id": "090126",
+    "institution_code": "090126",
+    "institution_name": "Fidfund MFB"
+  },
+  {
+    "id": "090127",
+    "institution_code": "090127",
+    "institution_name": "Bc Kash MFB"
+  },
+  {
+    "id": "090128",
+    "institution_code": "090128",
+    "institution_name": "Ndiorah MFB"
+  },
+  {
+    "id": "090129",
+    "institution_code": "090129",
+    "institution_name": "Moneytrust MFB"
+  },
+  {
+    "id": "090130",
+    "institution_code": "090130",
+    "institution_name": "Consumer  MFB"
+  },
+  {
+    "id": "090131",
+    "institution_code": "090131",
+    "institution_name": "Allworkers MFB"
+  },
+  {
+    "id": "090132",
+    "institution_code": "090132",
+    "institution_name": "Richway MFB"
+  },
+  {
+    "id": "090133",
+    "institution_code": "090133",
+    "institution_name": "Al-Barkah MFB"
+  },
+  {
+    "id": "090134",
+    "institution_code": "090134",
+    "institution_name": "Accion MFB"
+  },
+  {
+    "id": "090135",
+    "institution_code": "090135",
+    "institution_name": "Personal Trust Microfinance Bank"
+  },
+  {
+    "id": "090136",
+    "institution_code": "090136",
+    "institution_name": "Microcred Microfinance Bank"
+  },
+  {
+    "id": "090137",
+    "institution_code": "090137",
+    "institution_name": "Pecan Trust Microfinance Bank"
+  },
+  {
+    "id": "090138",
+    "institution_code": "090138",
+    "institution_name": "Royal Exchange Microfinance Bank"
+  },
+  {
+    "id": "090139",
+    "institution_code": "090139",
+    "institution_name": "Visa Microfinance Bank"
+  },
+  {
+    "id": "090140",
+    "institution_code": "090140",
+    "institution_name": "Sagamu Microfinance Bank"
+  },
+  {
+    "id": "090141",
+    "institution_code": "090141",
+    "institution_name": "Chikum Microfinance Bank"
+  },
+  {
+    "id": "090142",
+    "institution_code": "090142",
+    "institution_name": "Yes MFB"
+  },
+  {
+    "id": "090144",
+    "institution_code": "090144",
+    "institution_name": "Cit Microfinance Bank"
+  },
+  {
+    "id": "090145",
+    "institution_code": "090145",
+    "institution_name": "Full Range MFB"
+  },
+  {
+    "id": "090146",
+    "institution_code": "090146",
+    "institution_name": "Trident Microfinance Bank"
+  },
+  {
+    "id": "090148",
+    "institution_code": "090148",
+    "institution_name": "Bowen MFB"
+  },
+  {
+    "id": "090149",
+    "institution_code": "090149",
+    "institution_name": "Irl Microfinance Bank"
+  },
+  {
+    "id": "090151",
+    "institution_code": "090151",
+    "institution_name": "Mutual Trust Microfinance Bank"
+  },
+  {
+    "id": "090152",
+    "institution_code": "090152",
+    "institution_name": "Nargata MFB"
+  },
+  {
+    "id": "090153",
+    "institution_code": "090153",
+    "institution_name": "Ffs Microfinance Bank"
+  },
+  {
+    "id": "090154",
+    "institution_code": "090154",
+    "institution_name": "Cemcs MFB"
+  },
+  {
+    "id": "090155",
+    "institution_code": "090155",
+    "institution_name": "Advans La Fayette MFB"
+  },
+  {
+    "id": "090156",
+    "institution_code": "090156",
+    "institution_name": "E-Barcs MFB"
+  },
+  {
+    "id": "090157",
+    "institution_code": "090157",
+    "institution_name": "Infinity MFB"
+  },
+  {
+    "id": "090158",
+    "institution_code": "090158",
+    "institution_name": "Futo MFB"
+  },
+  {
+    "id": "090160",
+    "institution_code": "090160",
+    "institution_name": "Addosser MFBb"
+  },
+  {
+    "id": "090161",
+    "institution_code": "090161",
+    "institution_name": "Okpoga MFB"
+  },
+  {
+    "id": "090162",
+    "institution_code": "090162",
+    "institution_name": "Stanford MFB"
+  },
+  {
+    "id": "090164",
+    "institution_code": "090164",
+    "institution_name": "First Royal Microfinance Bank"
+  },
+  {
+    "id": "090165",
+    "institution_code": "090165",
+    "institution_name": "Petra Microfinance Bank"
+  },
+  {
+    "id": "090166",
+    "institution_code": "090166",
+    "institution_name": "Eso-E Microfinance Bank"
+  },
+  {
+    "id": "090167",
+    "institution_code": "090167",
+    "institution_name": "Daylight Microfinance Bank"
+  },
+  {
+    "id": "090168",
+    "institution_code": "090168",
+    "institution_name": "Gashua Microfinance Bank"
+  },
+  {
+    "id": "090169",
+    "institution_code": "090169",
+    "institution_name": "Alphakapital MFB"
+  },
+  {
+    "id": "090170",
+    "institution_code": "090170",
+    "institution_name": "Rahama MFB"
+  },
+  {
+    "id": "090171",
+    "institution_code": "090171",
+    "institution_name": "Mainstreet MFB"
+  },
+  {
+    "id": "090172",
+    "institution_code": "090172",
+    "institution_name": "Astrapolaris MFB"
+  },
+  {
+    "id": "090173",
+    "institution_code": "090173",
+    "institution_name": "Reliance MFB"
+  },
+  {
+    "id": "090174",
+    "institution_code": "090174",
+    "institution_name": "Malachy MFB"
+  },
+  {
+    "id": "090176",
+    "institution_code": "090176",
+    "institution_name": "Bosak MFB"
+  },
+  {
+    "id": "090177",
+    "institution_code": "090177",
+    "institution_name": "Lapo MFB"
+  },
+  {
+    "id": "090178",
+    "institution_code": "090178",
+    "institution_name": "Greenbank MFB"
+  },
+  {
+    "id": "090179",
+    "institution_code": "090179",
+    "institution_name": "Fast Microfinance Bank"
+  },
+  {
+    "id": "090180",
+    "institution_code": "090180",
+    "institution_name": "Amju MFB"
+  },
+  {
+    "id": "090181",
+    "institution_code": "090181",
+    "institution_name": "Balogun Fulani  Microfinance Bank"
+  },
+  {
+    "id": "090182",
+    "institution_code": "090182",
+    "institution_name": "Standard MFB"
+  },
+  {
+    "id": "090186",
+    "institution_code": "090186",
+    "institution_name": "Girei MFB"
+  },
+  {
+    "id": "090188",
+    "institution_code": "090188",
+    "institution_name": "Baines Credit MFB"
+  },
+  {
+    "id": "090190",
+    "institution_code": "090190",
+    "institution_name": "Mutual Benefits MFB"
+  },
+  {
+    "id": "090191",
+    "institution_code": "090191",
+    "institution_name": "Kcmb MFB"
+  },
+  {
+    "id": "090192",
+    "institution_code": "090192",
+    "institution_name": "Midland MFB"
+  },
+  {
+    "id": "090193",
+    "institution_code": "090193",
+    "institution_name": "Unical MFB"
+  },
+  {
+    "id": "090194",
+    "institution_code": "090194",
+    "institution_name": "Nirsal National Microfinance Bank"
+  },
+  {
+    "id": "090195",
+    "institution_code": "090195",
+    "institution_name": "Grooming Microfinance Bank"
+  },
+  {
+    "id": "090196",
+    "institution_code": "090196",
+    "institution_name": "Pennywise Microfinance Bank"
+  },
+  {
+    "id": "090197",
+    "institution_code": "090197",
+    "institution_name": "Abu Microfinance Bank"
+  },
+  {
+    "id": "090198",
+    "institution_code": "090198",
+    "institution_name": "Renmoney Microfinance Bank"
+  },
+  {
+    "id": "090205",
+    "institution_code": "090205",
+    "institution_name": "Newdawn Microfinance Bank"
+  },
+  {
+    "id": "090251",
+    "institution_code": "090251",
+    "institution_name": "Unn MFB"
+  },
+  {
+    "id": "090252",
+    "institution_code": "090252",
+    "institution_name": "Yobe MFB"
+  },
+  {
+    "id": "090253",
+    "institution_code": "090253",
+    "institution_name": "Wudil Microfinance Bank"
+  },
+  {
+    "id": "090254",
+    "institution_code": "090254",
+    "institution_name": "Coalcamp Microfinance Bank"
+  },
+  {
+    "id": "090258",
+    "institution_code": "090258",
+    "institution_name": "Imo Microfinance Bank"
+  },
+  {
+    "id": "090259",
+    "institution_code": "090259",
+    "institution_name": "Alekun Microfinance Bank"
+  },
+  {
+    "id": "090260",
+    "institution_code": "090260",
+    "institution_name": "Above Only Microfinance Bank"
+  },
+  {
+    "id": "090261",
+    "institution_code": "090261",
+    "institution_name": "Quickfund Microfinance Bank"
+  },
+  {
+    "id": "090262",
+    "institution_code": "090262",
+    "institution_name": "Stellas Microfinance Bank"
+  },
+  {
+    "id": "090263",
+    "institution_code": "090263",
+    "institution_name": "Navy Microfinance Bank"
+  },
+  {
+    "id": "090264",
+    "institution_code": "090264",
+    "institution_name": "Auchi Microfinance Bank"
+  },
+  {
+    "id": "090265",
+    "institution_code": "090265",
+    "institution_name": "Lovonus Microfinance Bank"
+  },
+  {
+    "id": "090266",
+    "institution_code": "090266",
+    "institution_name": "Uniben Microfinance Bank"
+  },
+  {
+    "id": "090267",
+    "institution_code": "090267",
+    "institution_name": "Kuda Microfinance Bank"
+  },
+  {
+    "id": "090268",
+    "institution_code": "090268",
+    "institution_name": "Adeyemi College Staff Microfinance Bank"
+  },
+  {
+    "id": "090269",
+    "institution_code": "090269",
+    "institution_name": "Greenville Microfinance Bank"
+  },
+  {
+    "id": "090270",
+    "institution_code": "090270",
+    "institution_name": "Ab Microfinance Bank"
+  },
+  {
+    "id": "090271",
+    "institution_code": "090271",
+    "institution_name": "Lavender Microfinance Bank"
+  },
+  {
+    "id": "090272",
+    "institution_code": "090272",
+    "institution_name": "Olabisi Onabanjo University Microfinance Bank"
+  },
+  {
+    "id": "090273",
+    "institution_code": "090273",
+    "institution_name": "Emeralds MFB"
+  },
+  {
+    "id": "090274",
+    "institution_code": "090274",
+    "institution_name": "Prestige Microfinance Bank"
+  },
+  {
+    "id": "090275",
+    "institution_code": "090275",
+    "institution_name": "Meridian MFB"
+  },
+  {
+    "id": "090276",
+    "institution_code": "090276",
+    "institution_name": "Trustfund Microfinance Bank"
+  },
+  {
+    "id": "090277",
+    "institution_code": "090277",
+    "institution_name": "Alhayat MFB"
+  },
+  {
+    "id": "090278",
+    "institution_code": "090278",
+    "institution_name": "Glory MFB"
+  },
+  {
+    "id": "090279",
+    "institution_code": "090279",
+    "institution_name": "Ikire MFB"
+  },
+  {
+    "id": "090280",
+    "institution_code": "090280",
+    "institution_name": "Megapraise Microfinance Bank"
+  },
+  {
+    "id": "090281",
+    "institution_code": "090281",
+    "institution_name": "Finex MFB"
+  },
+  {
+    "id": "090283",
+    "institution_code": "090283",
+    "institution_name": "Thrive MFB"
+  },
+  {
+    "id": "090285",
+    "institution_code": "090285",
+    "institution_name": "First Option MFB"
+  },
+  {
+    "id": "090286",
+    "institution_code": "090286",
+    "institution_name": "Safehaven Microfinance Bank"
+  },
+  {
+    "id": "090287",
+    "institution_code": "090287",
+    "institution_name": "Assets Matrix MFB"
+  },
+  {
+    "id": "090289",
+    "institution_code": "090289",
+    "institution_name": "Pillar MFB"
+  },
+  {
+    "id": "090291",
+    "institution_code": "090291",
+    "institution_name": "Halacredit MFB"
+  },
+  {
+    "id": "090292",
+    "institution_code": "090292",
+    "institution_name": "Afekhafe MFB"
+  },
+  {
+    "id": "090293",
+    "institution_code": "090293",
+    "institution_name": "Brethren Microfinance Bank"
+  },
+  {
+    "id": "090294",
+    "institution_code": "090294",
+    "institution_name": "Eagle Flight MFB"
+  },
+  {
+    "id": "090295",
+    "institution_code": "090295",
+    "institution_name": "Omiye MFB"
+  },
+  {
+    "id": "090296",
+    "institution_code": "090296",
+    "institution_name": "Polyuwanna MFB"
+  },
+  {
+    "id": "090297",
+    "institution_code": "090297",
+    "institution_name": "Alert MFB"
+  },
+  {
+    "id": "090298",
+    "institution_code": "090298",
+    "institution_name": "Federalpoly NasarawaMFB"
+  },
+  {
+    "id": "090299",
+    "institution_code": "090299",
+    "institution_name": "Kontagora MFB"
+  },
+  {
+    "id": "090302",
+    "institution_code": "090302",
+    "institution_name": "Sunbeam Microfinance Bank"
+  },
+  {
+    "id": "090305",
+    "institution_code": "090305",
+    "institution_name": "Sulsap MFB"
+  },
+  {
+    "id": "090307",
+    "institution_code": "090307",
+    "institution_name": "Aramoko Microfinance Bank"
+  },
+  {
+    "id": "090308",
+    "institution_code": "090308",
+    "institution_name": "Brightway MFB"
+  },
+  {
+    "id": "090310",
+    "institution_code": "090310",
+    "institution_name": "Edfin MFB"
+  },
+  {
+    "id": "090315",
+    "institution_code": "090315",
+    "institution_name": "U And C Microfinance Bank Limited"
+  },
+  {
+    "id": "090316",
+    "institution_code": "090316",
+    "institution_name": "Bayero Microfinance Bank"
+  },
+  {
+    "id": "090317",
+    "institution_code": "090317",
+    "institution_name": "Patrick Gold"
+  },
+  {
+    "id": "090318",
+    "institution_code": "090318",
+    "institution_name": "Federal University Dutse  Microfinance Bank"
+  },
+  {
+    "id": "090319",
+    "institution_code": "090319",
+    "institution_name": "Bonghe Microfinance Bank"
+  },
+  {
+    "id": "090320",
+    "institution_code": "090320",
+    "institution_name": "Kadpoly Microfinance Bank"
+  },
+  {
+    "id": "090322",
+    "institution_code": "090322",
+    "institution_name": "Rephidim Microfinance Bank"
+  },
+  {
+    "id": "090323",
+    "institution_code": "090323",
+    "institution_name": "Mainland Microfinance Bank"
+  },
+  {
+    "id": "090324",
+    "institution_code": "090324",
+    "institution_name": "Ikenne MFB"
+  },
+  {
+    "id": "090325",
+    "institution_code": "090325",
+    "institution_name": "Sparkle Microfinance Bank"
+  },
+  {
+    "id": "090326",
+    "institution_code": "090326",
+    "institution_name": "Balogun Gambari MFB"
+  },
+  {
+    "id": "090327",
+    "institution_code": "090327",
+    "institution_name": "Trust MFB"
+  },
+  {
+    "id": "090329",
+    "institution_code": "090329",
+    "institution_name": "Neptune Microfinance Bank"
+  },
+  {
+    "id": "090330",
+    "institution_code": "090330",
+    "institution_name": "Fame Microfinance Bank"
+  },
+  {
+    "id": "090331",
+    "institution_code": "090331",
+    "institution_name": "Unaab MFB"
+  },
+  {
+    "id": "090332",
+    "institution_code": "090332",
+    "institution_name": "Evergreen Microfinance Bank"
+  },
+  {
+    "id": "090333",
+    "institution_code": "090333",
+    "institution_name": "Oche MFB"
+  },
+  {
+    "id": "090337",
+    "institution_code": "090337",
+    "institution_name": "Iyeru Okin Microfinance Bank Ltd"
+  },
+  {
+    "id": "090338",
+    "institution_code": "090338",
+    "institution_name": "Uniuyo Microfinance Bank"
+  },
+  {
+    "id": "090340",
+    "institution_code": "090340",
+    "institution_name": "Stockcorp  Microfinance Bank"
+  },
+  {
+    "id": "090341",
+    "institution_code": "090341",
+    "institution_name": "Unilorin Microfinance Bank"
+  },
+  {
+    "id": "090343",
+    "institution_code": "090343",
+    "institution_name": "Citizen Trust Microfinance Bank Ltd"
+  },
+  {
+    "id": "090345",
+    "institution_code": "090345",
+    "institution_name": "Oau Microfinance Bank Ltd"
+  },
+  {
+    "id": "090349",
+    "institution_code": "090349",
+    "institution_name": "Nasarawa Microfinance Bank"
+  },
+  {
+    "id": "090350",
+    "institution_code": "090350",
+    "institution_name": "Illorin Microfinance Bank"
+  },
+  {
+    "id": "090352",
+    "institution_code": "090352",
+    "institution_name": "Jessefield Microfinance Bank"
+  },
+  {
+    "id": "090353",
+    "institution_code": "090353",
+    "institution_name": "Isuofia MFB"
+  },
+  {
+    "id": "090360",
+    "institution_code": "090360",
+    "institution_name": "Cashconnect   Microfinance Bank"
+  },
+  {
+    "id": "090362",
+    "institution_code": "090362",
+    "institution_name": "Molusi Microfinance Bank"
+  },
+  {
+    "id": "090363",
+    "institution_code": "090363",
+    "institution_name": "Headway MFB"
+  },
+  {
+    "id": "090365",
+    "institution_code": "090365",
+    "institution_name": "Corestep Microfinance Bank"
+  },
+  {
+    "id": "090366",
+    "institution_code": "090366",
+    "institution_name": "Firmus Microfinance Bank"
+  },
+  {
+    "id": "090369",
+    "institution_code": "090369",
+    "institution_name": "Seedvest Microfinance Bank"
+  },
+  {
+    "id": "090370",
+    "institution_code": "090370",
+    "institution_name": "Ilasan Microfinance Bank"
+  },
+  {
+    "id": "090371",
+    "institution_code": "090371",
+    "institution_name": "Agosasa Microfinance Bank"
+  },
+  {
+    "id": "090372",
+    "institution_code": "090372",
+    "institution_name": "Legend Microfinance Bank"
+  },
+  {
+    "id": "090373",
+    "institution_code": "090373",
+    "institution_name": "Tf Microfinance Bank"
+  },
+  {
+    "id": "090374",
+    "institution_code": "090374",
+    "institution_name": "Coastline Microfinance Bank"
+  },
+  {
+    "id": "090376",
+    "institution_code": "090376",
+    "institution_name": "Apple  Microfinance Bank"
+  },
+  {
+    "id": "090377",
+    "institution_code": "090377",
+    "institution_name": "Isaleoyo Microfinance Bank"
+  },
+  {
+    "id": "090378",
+    "institution_code": "090378",
+    "institution_name": "New Golden Pastures Microfinance Bank"
+  },
+  {
+    "id": "090380",
+    "institution_code": "090380",
+    "institution_name": "Kredi Money Microfinance Bank"
+  },
+  {
+    "id": "090384",
+    "institution_code": "090384",
+    "institution_name": "Zion Microfinance Bank"
+  },
+  {
+    "id": "090385",
+    "institution_code": "090385",
+    "institution_name": "Gti  Microfinance Bank"
+  },
+  {
+    "id": "090389",
+    "institution_code": "090389",
+    "institution_name": "Ek-Reliable Microfinance Bank"
+  },
+  {
+    "id": "090390",
+    "institution_code": "090390",
+    "institution_name": "Parkway Mf Bank"
+  },
+  {
+    "id": "090391",
+    "institution_code": "090391",
+    "institution_name": "Davodani  Microfinance Bank"
+  },
+  {
+    "id": "090392",
+    "institution_code": "090392",
+    "institution_name": "Mozfin Microfinance Bank"
+  },
+  {
+    "id": "090394",
+    "institution_code": "090394",
+    "institution_name": "Amac Microfinance Bank"
+  },
+  {
+    "id": "090395",
+    "institution_code": "090395",
+    "institution_name": "Borgu MFB"
+  },
+  {
+    "id": "090396",
+    "institution_code": "090396",
+    "institution_name": "Oscotech MFB"
+  },
+  {
+    "id": "090397",
+    "institution_code": "090397",
+    "institution_name": "Chanelle Bank"
+  },
+  {
+    "id": "090398",
+    "institution_code": "090398",
+    "institution_name": "Federal Polytechnic Nekede Microfinance Bank"
+  },
+  {
+    "id": "090399",
+    "institution_code": "090399",
+    "institution_name": "Nwannegadi MFB"
+  },
+  {
+    "id": "090400",
+    "institution_code": "090400",
+    "institution_name": "Finca Microfinance Bank"
+  },
+  {
+    "id": "090401",
+    "institution_code": "090401",
+    "institution_name": "Shepherd Trust Microfinance Bank"
+  },
+  {
+    "id": "090402",
+    "institution_code": "090402",
+    "institution_name": "Peace Microfinance Bank"
+  },
+  {
+    "id": "090403",
+    "institution_code": "090403",
+    "institution_name": "Uda Microfinance Bank"
+  },
+  {
+    "id": "090404",
+    "institution_code": "090404",
+    "institution_name": "Olowolagba Microfinance Bank"
+  },
+  {
+    "id": "090405",
+    "institution_code": "090405",
+    "institution_name": "Moniepoint Microfinance Bank"
+  },
+  {
+    "id": "090409",
+    "institution_code": "090409",
+    "institution_name": "Fcmb MFB"
+  },
+  {
+    "id": "090410",
+    "institution_code": "090410",
+    "institution_name": "Maritime Microfinance Bank"
+  },
+  {
+    "id": "090411",
+    "institution_code": "090411",
+    "institution_name": "Giginya Microfinance Bank"
+  },
+  {
+    "id": "090412",
+    "institution_code": "090412",
+    "institution_name": "Preeminent Microfinance Bank"
+  },
+  {
+    "id": "090413",
+    "institution_code": "090413",
+    "institution_name": "Benysta Microfinance Bank"
+  },
+  {
+    "id": "090414",
+    "institution_code": "090414",
+    "institution_name": "Crutech  Microfinance Bank"
+  },
+  {
+    "id": "090416",
+    "institution_code": "090416",
+    "institution_name": "Chibueze Microfinance Bank"
+  },
+  {
+    "id": "090417",
+    "institution_code": "090417",
+    "institution_name": "Imowo Microfinance Bank"
+  },
+  {
+    "id": "090418",
+    "institution_code": "090418",
+    "institution_name": "Highland Microfinance Bank"
+  },
+  {
+    "id": "090419",
+    "institution_code": "090419",
+    "institution_name": "Winview Bank"
+  },
+  {
+    "id": "090420",
+    "institution_code": "090420",
+    "institution_name": "Letshego Microfinance Bank"
+  },
+  {
+    "id": "090421",
+    "institution_code": "090421",
+    "institution_name": "Izon Microfinance Bank"
+  },
+  {
+    "id": "090422",
+    "institution_code": "090422",
+    "institution_name": "Landgold  Microfinance Bank"
+  },
+  {
+    "id": "090424",
+    "institution_code": "090424",
+    "institution_name": "Abucoop  Microfinance Bank"
+  },
+  {
+    "id": "090425",
+    "institution_code": "090425",
+    "institution_name": "Banex Microfinance Bank"
+  },
+  {
+    "id": "090426",
+    "institution_code": "090426",
+    "institution_name": "Tangerine Money MFB"
+  },
+  {
+    "id": "090427",
+    "institution_code": "090427",
+    "institution_name": "Ebsu Microfinance Bank"
+  },
+  {
+    "id": "090428",
+    "institution_code": "090428",
+    "institution_name": "Ishie  Microfinance Bank"
+  },
+  {
+    "id": "090429",
+    "institution_code": "090429",
+    "institution_name": "Crossriver  Microfinance Bank"
+  },
+  {
+    "id": "090430",
+    "institution_code": "090430",
+    "institution_name": "Ilora Microfinance Bank"
+  },
+  {
+    "id": "090432",
+    "institution_code": "090432",
+    "institution_name": "Memphis Microfinance Bank"
+  },
+  {
+    "id": "090433",
+    "institution_code": "090433",
+    "institution_name": "Rigo Microfinance Bank"
+  },
+  {
+    "id": "090434",
+    "institution_code": "090434",
+    "institution_name": "Insight Microfinance Bank"
+  },
+  {
+    "id": "090435",
+    "institution_code": "090435",
+    "institution_name": "Links  Microfinance Bank"
+  },
+  {
+    "id": "090436",
+    "institution_code": "090436",
+    "institution_name": "Spectrum Microfinance Bank"
+  },
+  {
+    "id": "090437",
+    "institution_code": "090437",
+    "institution_name": "Oakland Microfinance Bank"
+  },
+  {
+    "id": "090438",
+    "institution_code": "090438",
+    "institution_name": "Futminna Microfinance Bank"
+  },
+  {
+    "id": "090439",
+    "institution_code": "090439",
+    "institution_name": "Ibeto  Microfinance Bank"
+  },
+  {
+    "id": "090441",
+    "institution_code": "090441",
+    "institution_name": "Giwa Microfinance Bank"
+  },
+  {
+    "id": "090443",
+    "institution_code": "090443",
+    "institution_name": "Rima Microfinance Bank"
+  },
+  {
+    "id": "090444",
+    "institution_code": "090444",
+    "institution_name": "Boi Mf Bank"
+  },
+  {
+    "id": "090445",
+    "institution_code": "090445",
+    "institution_name": "Capstone Mf Bank"
+  },
+  {
+    "id": "090446",
+    "institution_code": "090446",
+    "institution_name": "Support Mf Bank"
+  },
+  {
+    "id": "090448",
+    "institution_code": "090448",
+    "institution_name": "Moyofade Mf Bank"
+  },
+  {
+    "id": "090449",
+    "institution_code": "090449",
+    "institution_name": "Rex Microfinance Bank"
+  },
+  {
+    "id": "090450",
+    "institution_code": "090450",
+    "institution_name": "Kwasu Mf Bank"
+  },
+  {
+    "id": "090451",
+    "institution_code": "090451",
+    "institution_name": "Atbu  Microfinance Bank"
+  },
+  {
+    "id": "090452",
+    "institution_code": "090452",
+    "institution_name": "Unilag  Microfinance Bank"
+  },
+  {
+    "id": "090453",
+    "institution_code": "090453",
+    "institution_name": "Uzondu Mf Bank"
+  },
+  {
+    "id": "090454",
+    "institution_code": "090454",
+    "institution_name": "Borstal Microfinance Bank"
+  },
+  {
+    "id": "090455",
+    "institution_code": "090455",
+    "institution_name": "Mkobo Microfinance Bank Ltd"
+  },
+  {
+    "id": "090456",
+    "institution_code": "090456",
+    "institution_name": "Ospoly Microfinance Bank"
+  },
+  {
+    "id": "090459",
+    "institution_code": "090459",
+    "institution_name": "Nice Microfinance Bank"
+  },
+  {
+    "id": "090460",
+    "institution_code": "090460",
+    "institution_name": "Oluyole Microfinance Bank"
+  },
+  {
+    "id": "090461",
+    "institution_code": "090461",
+    "institution_name": "Uniibadan Microfinance Bank"
+  },
+  {
+    "id": "090462",
+    "institution_code": "090462",
+    "institution_name": "Monarch Microfinance Bank"
+  },
+  {
+    "id": "090463",
+    "institution_code": "090463",
+    "institution_name": "Rehoboth Microfinance Bank"
+  },
+  {
+    "id": "090464",
+    "institution_code": "090464",
+    "institution_name": "Unimaid Microfinance Bank"
+  },
+  {
+    "id": "090465",
+    "institution_code": "090465",
+    "institution_name": "Maintrust MFB"
+  },
+  {
+    "id": "090466",
+    "institution_code": "090466",
+    "institution_name": "Yct Microfinance Bank"
+  },
+  {
+    "id": "090467",
+    "institution_code": "090467",
+    "institution_name": "Good Neighbours Microfinance Bank"
+  },
+  {
+    "id": "090469",
+    "institution_code": "090469",
+    "institution_name": "Aniocha MFB"
+  },
+  {
+    "id": "090470",
+    "institution_code": "090470",
+    "institution_name": "Dot MFB"
+  },
+  {
+    "id": "090471",
+    "institution_code": "090471",
+    "institution_name": "Oluchukwu Microfinance Bank"
+  },
+  {
+    "id": "090472",
+    "institution_code": "090472",
+    "institution_name": "Caretaker Microfinance Bank"
+  },
+  {
+    "id": "090473",
+    "institution_code": "090473",
+    "institution_name": "Assets Microfinance Bank"
+  },
+  {
+    "id": "090475",
+    "institution_code": "090475",
+    "institution_name": "Giant Stride MFB"
+  },
+  {
+    "id": "090476",
+    "institution_code": "090476",
+    "institution_name": "Anchorage MFB"
+  },
+  {
+    "id": "090477",
+    "institution_code": "090477",
+    "institution_name": "Light Microfinance Bank"
+  },
+  {
+    "id": "090478",
+    "institution_code": "090478",
+    "institution_name": "Avuenegbe MFB"
+  },
+  {
+    "id": "090479",
+    "institution_code": "090479",
+    "institution_name": "First Heritage MFB"
+  },
+  {
+    "id": "090480",
+    "institution_code": "090480",
+    "institution_name": "Kolomoni Microfinance Bank Ltd"
+  },
+  {
+    "id": "090481",
+    "institution_code": "090481",
+    "institution_name": "Prisco  Microfinance Bank"
+  },
+  {
+    "id": "090482",
+    "institution_code": "090482",
+    "institution_name": "Fedeth MFB"
+  },
+  {
+    "id": "090483",
+    "institution_code": "090483",
+    "institution_name": "Ada MFB"
+  },
+  {
+    "id": "090484",
+    "institution_code": "090484",
+    "institution_name": "Garki MFB"
+  },
+  {
+    "id": "090485",
+    "institution_code": "090485",
+    "institution_name": "Safegate Microfinance Bank"
+  },
+  {
+    "id": "090486",
+    "institution_code": "090486",
+    "institution_name": "Fortress Microfinance Bank"
+  },
+  {
+    "id": "090487",
+    "institution_code": "090487",
+    "institution_name": "Kingdom College  Microfinance Bank"
+  },
+  {
+    "id": "090488",
+    "institution_code": "090488",
+    "institution_name": "Ibu-Aje Microfinance"
+  },
+  {
+    "id": "090489",
+    "institution_code": "090489",
+    "institution_name": "Alvana Microfinance Bank"
+  },
+  {
+    "id": "090490",
+    "institution_code": "090490",
+    "institution_name": "Chukwunenye  Microfinance Bank"
+  },
+  {
+    "id": "090491",
+    "institution_code": "090491",
+    "institution_name": "Nsuk  Microfinance Bank"
+  },
+  {
+    "id": "090492",
+    "institution_code": "090492",
+    "institution_name": "Oraukwu  Microfinance Bank"
+  },
+  {
+    "id": "090493",
+    "institution_code": "090493",
+    "institution_name": "Iperu Microfinance Bank"
+  },
+  {
+    "id": "090494",
+    "institution_code": "090494",
+    "institution_name": "Boji Boji Microfinance Bank"
+  },
+  {
+    "id": "090495",
+    "institution_code": "090495",
+    "institution_name": "Goodnews Microfinance Bank"
+  },
+  {
+    "id": "090496",
+    "institution_code": "090496",
+    "institution_name": "Radalpha Microfinance Bank"
+  },
+  {
+    "id": "090497",
+    "institution_code": "090497",
+    "institution_name": "Palmcoast Microfinance Bank"
+  },
+  {
+    "id": "090498",
+    "institution_code": "090498",
+    "institution_name": "Catland Microfinance Bank"
+  },
+  {
+    "id": "090499",
+    "institution_code": "090499",
+    "institution_name": "Pristine Divitis Microfinance Bank"
+  },
+  {
+    "id": "090500",
+    "institution_code": "090500",
+    "institution_name": "Gwong Microfinance Bank"
+  },
+  {
+    "id": "090501",
+    "institution_code": "090501",
+    "institution_name": "Boromu Microfinance Bank"
+  },
+  {
+    "id": "090502",
+    "institution_code": "090502",
+    "institution_name": "Shalom Microfinance Bank"
+  },
+  {
+    "id": "090503",
+    "institution_code": "090503",
+    "institution_name": "Projects Microfinance Bank"
+  },
+  {
+    "id": "090504",
+    "institution_code": "090504",
+    "institution_name": "Zikora Microfinance Bank"
+  },
+  {
+    "id": "090505",
+    "institution_code": "090505",
+    "institution_name": "Nigeria Prisonsmicrofinance Bank"
+  },
+  {
+    "id": "090506",
+    "institution_code": "090506",
+    "institution_name": "Solid Allianze MFB"
+  },
+  {
+    "id": "090507",
+    "institution_code": "090507",
+    "institution_name": "Fims MFB"
+  },
+  {
+    "id": "090508",
+    "institution_code": "090508",
+    "institution_name": "Borno Renaissance Microfinance Bank"
+  },
+  {
+    "id": "090509",
+    "institution_code": "090509",
+    "institution_name": "Capitalmetriq Swift Microfinance Bank"
+  },
+  {
+    "id": "090510",
+    "institution_code": "090510",
+    "institution_name": "Umunnachi Microfinance Bank"
+  },
+  {
+    "id": "090511",
+    "institution_code": "090511",
+    "institution_name": "Cloverleaf  MFB"
+  },
+  {
+    "id": "090512",
+    "institution_code": "090512",
+    "institution_name": "Bubayero Microfinance Bank"
+  },
+  {
+    "id": "090513",
+    "institution_code": "090513",
+    "institution_name": "Seap Microfinance Bank"
+  },
+  {
+    "id": "090514",
+    "institution_code": "090514",
+    "institution_name": "Umuchinemere Procredit Microfinance Bank"
+  },
+  {
+    "id": "090515",
+    "institution_code": "090515",
+    "institution_name": "Rima Growth Pathway Microfinance Bank"
+  },
+  {
+    "id": "090516",
+    "institution_code": "090516",
+    "institution_name": "Numo Microfinance Bank"
+  },
+  {
+    "id": "090517",
+    "institution_code": "090517",
+    "institution_name": "Uhuru Microfinance Bank"
+  },
+  {
+    "id": "090518",
+    "institution_code": "090518",
+    "institution_name": "Afemai Microfinance Bank"
+  },
+  {
+    "id": "090519",
+    "institution_code": "090519",
+    "institution_name": "Ibom Fadama Microfinance Bank"
+  },
+  {
+    "id": "090521",
+    "institution_code": "090521",
+    "institution_name": "Foresight Microfinance Bank"
+  },
+  {
+    "id": "090523",
+    "institution_code": "090523",
+    "institution_name": "Chase Microfinance Bank"
+  },
+  {
+    "id": "090524",
+    "institution_code": "090524",
+    "institution_name": "Solidrock Microfinance Bank"
+  },
+  {
+    "id": "090525",
+    "institution_code": "090525",
+    "institution_name": "Triple A Microfinance Bank"
+  },
+  {
+    "id": "090526",
+    "institution_code": "090526",
+    "institution_name": "Crescent Microfinance Bank"
+  },
+  {
+    "id": "090527",
+    "institution_code": "090527",
+    "institution_name": "Ojokoro MFB"
+  },
+  {
+    "id": "090528",
+    "institution_code": "090528",
+    "institution_name": "Mgbidi Microfinance Bank"
+  },
+  {
+    "id": "090529",
+    "institution_code": "090529",
+    "institution_name": "Bankly Microfinance Bank"
+  },
+  {
+    "id": "090530",
+    "institution_code": "090530",
+    "institution_name": "Confidence Microfinance Bank Ltd"
+  },
+  {
+    "id": "090531",
+    "institution_code": "090531",
+    "institution_name": "Aku MFB"
+  },
+  {
+    "id": "090532",
+    "institution_code": "090532",
+    "institution_name": "Ibolo Micorfinance Bank Ltd"
+  },
+  {
+    "id": "090534",
+    "institution_code": "090534",
+    "institution_name": "Polyibadan Microfinance Bank"
+  },
+  {
+    "id": "090535",
+    "institution_code": "090535",
+    "institution_name": "Nkpolu-Ust Microfinance"
+  },
+  {
+    "id": "090536",
+    "institution_code": "090536",
+    "institution_name": "Ikoyi-Osun Microfinance Bank"
+  },
+  {
+    "id": "090537",
+    "institution_code": "090537",
+    "institution_name": "Lobrem Microfinance Bank"
+  },
+  {
+    "id": "090538",
+    "institution_code": "090538",
+    "institution_name": "Blue Investments Microfinance Bank"
+  },
+  {
+    "id": "090539",
+    "institution_code": "090539",
+    "institution_name": "Enrich Microfinance Bank"
+  },
+  {
+    "id": "090540",
+    "institution_code": "090540",
+    "institution_name": "Aztec Microfinance Bank"
+  },
+  {
+    "id": "090542",
+    "institution_code": "090542",
+    "institution_name": "Otuo Microfinance Bank Ltd"
+  },
+  {
+    "id": "090544",
+    "institution_code": "090544",
+    "institution_name": "Aspire Microfinance Bank Ltd"
+  },
+  {
+    "id": "090545",
+    "institution_code": "090545",
+    "institution_name": "Abulesoro Microfinance Bank Ltd"
+  },
+  {
+    "id": "090546",
+    "institution_code": "090546",
+    "institution_name": "Ijebu-Ife Microfinance Bank Ltd"
+  },
+  {
+    "id": "090547",
+    "institution_code": "090547",
+    "institution_name": "Rockshield Microfinance Bank"
+  },
+  {
+    "id": "090549",
+    "institution_code": "090549",
+    "institution_name": "Kc Microfinance Bank"
+  },
+  {
+    "id": "090550",
+    "institution_code": "090550",
+    "institution_name": "Green Energy Microfinance Bank Ltd"
+  },
+  {
+    "id": "090551",
+    "institution_code": "090551",
+    "institution_name": "Fairmoney Microfinance Bank Ltd"
+  },
+  {
+    "id": "090552",
+    "institution_code": "090552",
+    "institution_name": "Ekimogun Microfinance Bank"
+  },
+  {
+    "id": "090553",
+    "institution_code": "090553",
+    "institution_name": "Consistent Trust Microfinance Bank Ltd"
+  },
+  {
+    "id": "090554",
+    "institution_code": "090554",
+    "institution_name": "Kayvee Microfinance Bank"
+  },
+  {
+    "id": "090556",
+    "institution_code": "090556",
+    "institution_name": "Egwafin Microfinance Bank Ltd"
+  },
+  {
+    "id": "090557",
+    "institution_code": "090557",
+    "institution_name": "Lifegate Microfinance Bank Ltd"
+  },
+  {
+    "id": "090558",
+    "institution_code": "090558",
+    "institution_name": "Shongom Microfinance Bank Ltd"
+  },
+  {
+    "id": "090559",
+    "institution_code": "090559",
+    "institution_name": "Shield Microfinance Bank Ltd"
+  },
+  {
+    "id": "090560",
+    "institution_code": "090560",
+    "institution_name": "Tanadi Microfinance Bank Ltd"
+  },
+  {
+    "id": "090561",
+    "institution_code": "090561",
+    "institution_name": "Akuchukwu Microfinance Bank Ltd"
+  },
+  {
+    "id": "090562",
+    "institution_code": "090562",
+    "institution_name": "Cedar Microfinance Bank Ltd"
+  },
+  {
+    "id": "090563",
+    "institution_code": "090563",
+    "institution_name": "Balera Microfinance Bank Ltd"
+  },
+  {
+    "id": "090564",
+    "institution_code": "090564",
+    "institution_name": "Supreme Microfinance Bank Ltd"
+  },
+  {
+    "id": "090565",
+    "institution_code": "090565",
+    "institution_name": "Oke-Aro Oredegbe Microfinance Bank Ltd"
+  },
+  {
+    "id": "090566",
+    "institution_code": "090566",
+    "institution_name": "Okuku Microfinance Bank Ltd"
+  },
+  {
+    "id": "090567",
+    "institution_code": "090567",
+    "institution_name": "Orokam Microfinance Bank Ltd"
+  },
+  {
+    "id": "090568",
+    "institution_code": "090568",
+    "institution_name": "Broadview Microfinance Bank Ltd"
+  },
+  {
+    "id": "090569",
+    "institution_code": "090569",
+    "institution_name": "Qube Microfinance Bank Ltd"
+  },
+  {
+    "id": "090570",
+    "institution_code": "090570",
+    "institution_name": "Iyamoye Microfinance Bank Ltd"
+  },
+  {
+    "id": "090571",
+    "institution_code": "090571",
+    "institution_name": "Ilaro Poly Microfinance Bank Ltd"
+  },
+  {
+    "id": "090572",
+    "institution_code": "090572",
+    "institution_name": "Ewt Microfinance Bank"
+  },
+  {
+    "id": "090573",
+    "institution_code": "090573",
+    "institution_name": "Snow MFB"
+  },
+  {
+    "id": "090574",
+    "institution_code": "090574",
+    "institution_name": "Goldman Microfinance Bank Ltd"
+  },
+  {
+    "id": "090575",
+    "institution_code": "090575",
+    "institution_name": "Firstmidas Microfinance Bank Ltd"
+  },
+  {
+    "id": "090576",
+    "institution_code": "090576",
+    "institution_name": "Octopus Microfinance Bank Ltd"
+  },
+  {
+    "id": "090578",
+    "institution_code": "090578",
+    "institution_name": "Iwade Microfinance Bank Ltd"
+  },
+  {
+    "id": "090579",
+    "institution_code": "090579",
+    "institution_name": "Gbede Microfinance Bank"
+  },
+  {
+    "id": "090580",
+    "institution_code": "090580",
+    "institution_name": "Otech Microfinance Bank Ltd"
+  },
+  {
+    "id": "090582",
+    "institution_code": "090582",
+    "institution_name": "Gabasawa MFB"
+  },
+  {
+    "id": "090583",
+    "institution_code": "090583",
+    "institution_name": "Stateside MFB"
+  },
+  {
+    "id": "090584",
+    "institution_code": "090584",
+    "institution_name": "Island Microfinance Bank Ltd"
+  },
+  {
+    "id": "090586",
+    "institution_code": "090586",
+    "institution_name": "Gombe Microfinance Bank Ltd"
+  },
+  {
+    "id": "090587",
+    "institution_code": "090587",
+    "institution_name": "Microbiz MFB"
+  },
+  {
+    "id": "090588",
+    "institution_code": "090588",
+    "institution_name": "Orisun MFB"
+  },
+  {
+    "id": "090590",
+    "institution_code": "090590",
+    "institution_name": "Waya Microfinance Bank Ltd"
+  },
+  {
+    "id": "090591",
+    "institution_code": "090591",
+    "institution_name": "Gabsyn MFB"
+  },
+  {
+    "id": "090592",
+    "institution_code": "090592",
+    "institution_name": "Kano Poly MFB"
+  },
+  {
+    "id": "090593",
+    "institution_code": "090593",
+    "institution_name": "Tasued Microfinance Bank Ltd"
+  },
+  {
+    "id": "090596",
+    "institution_code": "090596",
+    "institution_name": "Dal Microfinance Bank"
+  },
+  {
+    "id": "090597",
+    "institution_code": "090597",
+    "institution_name": "Kabo Microfinance Bank"
+  },
+  {
+    "id": "090599",
+    "institution_code": "090599",
+    "institution_name": "Greenacres MFB"
+  },
+  {
+    "id": "090600",
+    "institution_code": "090600",
+    "institution_name": "Ave Maria Microfinance Bank Ltd"
+  },
+  {
+    "id": "090602",
+    "institution_code": "090602",
+    "institution_name": "Kenechukwu Microfinance Bank"
+  },
+  {
+    "id": "090603",
+    "institution_code": "090603",
+    "institution_name": "Macrod MFB"
+  },
+  {
+    "id": "090605",
+    "institution_code": "090605",
+    "institution_name": "Madobi MFB"
+  },
+  {
+    "id": "090606",
+    "institution_code": "090606",
+    "institution_name": "Kku Microfinance Bank"
+  },
+  {
+    "id": "090607",
+    "institution_code": "090607",
+    "institution_name": "Minjibir Microfinance Bank"
+  },
+  {
+    "id": "090609",
+    "institution_code": "090609",
+    "institution_name": "Ummah Microfinance Bank"
+  },
+  {
+    "id": "090611",
+    "institution_code": "090611",
+    "institution_name": "Creditville MFB"
+  },
+  {
+    "id": "090612",
+    "institution_code": "090612",
+    "institution_name": "Medef MFB"
+  },
+  {
+    "id": "090613",
+    "institution_code": "090613",
+    "institution_name": "Total Trust Microfinance Bank"
+  },
+  {
+    "id": "090614",
+    "institution_code": "090614",
+    "institution_name": "Flourish MFB"
+  },
+  {
+    "id": "090615",
+    "institution_code": "090615",
+    "institution_name": "Beststar MFB"
+  },
+  {
+    "id": "090616",
+    "institution_code": "090616",
+    "institution_name": "Rayyan MFB"
+  },
+  {
+    "id": "090618",
+    "institution_code": "090618",
+    "institution_name": "Berachah Microfinance Bank"
+  },
+  {
+    "id": "090620",
+    "institution_code": "090620",
+    "institution_name": "Iyin Ekiti MFB"
+  },
+  {
+    "id": "090621",
+    "institution_code": "090621",
+    "institution_name": "Gidauniyar Alheri Microfinance Bank"
+  },
+  {
+    "id": "090622",
+    "institution_code": "090622",
+    "institution_name": "Royal Blue MFB"
+  },
+  {
+    "id": "090623",
+    "institution_code": "090623",
+    "institution_name": "Mab Allianz MFB"
+  },
+  {
+    "id": "090625",
+    "institution_code": "090625",
+    "institution_name": "Babura Microfinance Bank"
+  },
+  {
+    "id": "090626",
+    "institution_code": "090626",
+    "institution_name": "Ohha Microfinance Bank"
+  },
+  {
+    "id": "090633",
+    "institution_code": "090633",
+    "institution_name": "Awacash Microfinance Bank"
+  },
+  {
+    "id": "090634",
+    "institution_code": "090634",
+    "institution_name": "Cashbridge Microfinance Bank"
+  },
+  {
+    "id": "090635",
+    "institution_code": "090635",
+    "institution_name": "Oyan Microfinance Bank"
+  },
+  {
+    "id": "090637",
+    "institution_code": "090637",
+    "institution_name": "Unifund Microfinance Bank"
+  },
+  {
+    "id": "090638",
+    "institution_code": "090638",
+    "institution_name": "Tangale Microfinance Bank"
+  },
+  {
+    "id": "090639",
+    "institution_code": "090639",
+    "institution_name": "Global Initiative MFB"
+  },
+  {
+    "id": "090640",
+    "institution_code": "090640",
+    "institution_name": "Absu Microfinance Bank"
+  },
+  {
+    "id": "090641",
+    "institution_code": "090641",
+    "institution_name": "Source Microfinance Bank"
+  },
+  {
+    "id": "090642",
+    "institution_code": "090642",
+    "institution_name": "Prosperity Microfinance Bank"
+  },
+  {
+    "id": "090643",
+    "institution_code": "090643",
+    "institution_name": "Diobu Microfinance Bank"
+  },
+  {
+    "id": "090644",
+    "institution_code": "090644",
+    "institution_name": "Suntop Microfinance Bank"
+  },
+  {
+    "id": "090645",
+    "institution_code": "090645",
+    "institution_name": "Amucha Microfinance Bank"
+  },
+  {
+    "id": "090646",
+    "institution_code": "090646",
+    "institution_name": "Okengwe MFB"
+  },
+  {
+    "id": "090647",
+    "institution_code": "090647",
+    "institution_name": "Canaan Microfinance Bank"
+  },
+  {
+    "id": "090649",
+    "institution_code": "090649",
+    "institution_name": "Cashrite MFB"
+  },
+  {
+    "id": "090650",
+    "institution_code": "090650",
+    "institution_name": "Leadcity MFB"
+  },
+  {
+    "id": "090651",
+    "institution_code": "090651",
+    "institution_name": "Bam MFB"
+  },
+  {
+    "id": "090652",
+    "institution_code": "090652",
+    "institution_name": "Umuchukwu Microfinance Bank"
+  },
+  {
+    "id": "090654",
+    "institution_code": "090654",
+    "institution_name": "Odoakpu MFB"
+  },
+  {
+    "id": "090655",
+    "institution_code": "090655",
+    "institution_name": "Bunkure MFB"
+  },
+  {
+    "id": "090656",
+    "institution_code": "090656",
+    "institution_name": "Entity MFB"
+  },
+  {
+    "id": "090657",
+    "institution_code": "090657",
+    "institution_name": "Pyramid MFB"
+  },
+  {
+    "id": "090661",
+    "institution_code": "090661",
+    "institution_name": "Bundi MFB"
+  },
+  {
+    "id": "090662",
+    "institution_code": "090662",
+    "institution_name": "Awesome MFB"
+  },
+  {
+    "id": "090663",
+    "institution_code": "090663",
+    "institution_name": "Treasures MFB"
+  },
+  {
+    "id": "090664",
+    "institution_code": "090664",
+    "institution_name": "Good Shephard MFB"
+  },
+  {
+    "id": "090666",
+    "institution_code": "090666",
+    "institution_name": "Revelation Micro Finance Bank Limited"
+  },
+  {
+    "id": "100001",
+    "institution_code": "100001",
+    "institution_name": "Fets"
+  },
+  {
+    "id": "100002",
+    "institution_code": "100002",
+    "institution_name": "Paga"
+  },
+  {
+    "id": "100003",
+    "institution_code": "100003",
+    "institution_name": "Parkway-Readycash"
+  },
+  {
+    "id": "100004",
+    "institution_code": "100004",
+    "institution_name": "Opay"
+  },
+  {
+    "id": "100005",
+    "institution_code": "100005",
+    "institution_name": "Cellulant"
+  },
+  {
+    "id": "100006",
+    "institution_code": "100006",
+    "institution_name": "Etranzact"
+  },
+  {
+    "id": "100007",
+    "institution_code": "100007",
+    "institution_name": "Stanbic Ibtc @Ease Wallet"
+  },
+  {
+    "id": "100008",
+    "institution_code": "100008",
+    "institution_name": "Ecobank Xpress Account"
+  },
+  {
+    "id": "100009",
+    "institution_code": "100009",
+    "institution_name": "Gtmobile"
+  },
+  {
+    "id": "100010",
+    "institution_code": "100010",
+    "institution_name": "Teasymobile"
+  },
+  {
+    "id": "100011",
+    "institution_code": "100011",
+    "institution_name": "Mkudi"
+  },
+  {
+    "id": "100013",
+    "institution_code": "100013",
+    "institution_name": "Accessmoney"
+  },
+  {
+    "id": "100014",
+    "institution_code": "100014",
+    "institution_name": "Firstmonie Wallet"
+  },
+  {
+    "id": "100016",
+    "institution_code": "100016",
+    "institution_name": "Fortismobile"
+  },
+  {
+    "id": "100018",
+    "institution_code": "100018",
+    "institution_name": "Zenithmobile"
+  },
+  {
+    "id": "100019",
+    "institution_code": "100019",
+    "institution_name": "Fidelity Mobile"
+  },
+  {
+    "id": "100022",
+    "institution_code": "100022",
+    "institution_name": "Gomoney"
+  },
+  {
+    "id": "100023",
+    "institution_code": "100023",
+    "institution_name": "Tagpay"
+  },
+  {
+    "id": "100024",
+    "institution_code": "100024",
+    "institution_name": "Imperial Homes Mortgage Bank"
+  },
+  {
+    "id": "100025",
+    "institution_code": "100025",
+    "institution_name": "Kongapay"
+  },
+  {
+    "id": "100026",
+    "institution_code": "100026",
+    "institution_name": "Carbon"
+  },
+  {
+    "id": "100027",
+    "institution_code": "100027",
+    "institution_name": "Intellifin"
+  },
+  {
+    "id": "100028",
+    "institution_code": "100028",
+    "institution_name": "Ag Mortgage Bank PLC"
+  },
+  {
+    "id": "100031",
+    "institution_code": "100031",
+    "institution_name": "Fcmb Easy Account"
+  },
+  {
+    "id": "100032",
+    "institution_code": "100032",
+    "institution_name": "Contec Global"
+  },
+  {
+    "id": "100033",
+    "institution_code": "100033",
+    "institution_name": "Palmpay"
+  },
+  {
+    "id": "100034",
+    "institution_code": "100034",
+    "institution_name": "Zwallet"
+  },
+  {
+    "id": "100035",
+    "institution_code": "100035",
+    "institution_name": "M36"
+  },
+  {
+    "id": "100036",
+    "institution_code": "100036",
+    "institution_name": "Kegow (Chamsmobile)"
+  },
+  {
+    "id": "100039",
+    "institution_code": "100039",
+    "institution_name": "Paystack-Titan"
+  },
+  {
+    "id": "100040",
+    "institution_code": "100040",
+    "institution_name": "Xpresswallet"
+  },
+  {
+    "id": "100052",
+    "institution_code": "100052",
+    "institution_name": "Beta-Access Yello"
+  },
+  {
+    "id": "110010",
+    "institution_code": "110010",
+    "institution_name": "Interswitch Financial Inclusion Services (Ifis)"
+  },
+  {
+    "id": "110024",
+    "institution_code": "110024",
+    "institution_name": "Resident Fintech Limited"
+  },
+  {
+    "id": "120001",
+    "institution_code": "120001",
+    "institution_name": "9 Payment Service Bank (9PSB)",
+    "institution_acronym": "9PSB"
+  },
+  {
+    "id": "120002",
+    "institution_code": "120002",
+    "institution_name": "Hopepsb"
+  },
+  {
+    "id": "120003",
+    "institution_code": "120003",
+    "institution_name": "Momo Psb"
+  },
+  {
+    "id": "120004",
+    "institution_code": "120004",
+    "institution_name": "Smartcash Payment Service Bank"
+  },
+  {
+    "id": "120005",
+    "institution_code": "120005",
+    "institution_name": "Money Master Psb"
+  },
+  {
+    "id": "400001",
+    "institution_code": "400001",
+    "institution_name": "FSDH"
+  }
+]
